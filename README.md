@@ -29,11 +29,7 @@ CREATE DEFINER=`root`@`localhost` PROCEDURE `uploadsongs`(IN `singer_id` INT(11)
 INSERT INTO upload_albums(`singer_id`,`song_name`,`song_format`,`singer_name`,`song_image`,`audio_file`) VALUES(singer_id,song_name,song_format,singer_name,song_image,audio_file)$$
 DELIMITER ;
 ```
-```
-Admin Panel Username and Password
-username:admin@gmail.com
-password:sujith123
-```
+
 #  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
 
 Some Glimps....
