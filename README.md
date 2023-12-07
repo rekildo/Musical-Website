@@ -30,7 +30,7 @@ INSERT INTO upload_albums(`singer_id`,`song_name`,`song_format`,`singer_name`,`s
 DELIMITER ;
 ```
 
-#  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
+- Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
 
 Some Glimps....
 
